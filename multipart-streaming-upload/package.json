@@ -1,0 +1,28 @@
+{
+  "name": "streaming-file-upload",
+  "version": "1.0.0",
+  "description": "Streaming file uploads",
+  "main": "app.s",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "streaming"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/username/repository.git"
+  },
+  "author": "TTC Inc",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "busboy": "^0.2.14",
+    "express": "^4.15.3",
+    "form-data": "^2.1.4",
+    "http-status-codes": "^1.1.6",
+    "morgan": "^1.8.2",
+    "request": "^2.81.0"
+  }
+}
