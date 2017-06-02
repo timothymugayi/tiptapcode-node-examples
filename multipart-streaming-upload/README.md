@@ -1,6 +1,6 @@
 # Upload and stream multipart content with Nodejs #
 
-Example showcases how to use to stream multipart upload content. 
+Example showcases how to stream multipart content. 
 
 ## Installation instructions ##
 
